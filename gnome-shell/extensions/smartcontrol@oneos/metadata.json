@@ -1,9 +1,0 @@
-{
-
-"uuid": "smartcontrol@oneos",
-"name": "Smart Control player indicator",
-"description": "Smart Control player indicator for One OS",
-   "shell-version": ["3.10", "3.12","3.14"],
-
-}
-
