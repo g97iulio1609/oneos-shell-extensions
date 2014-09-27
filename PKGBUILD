@@ -11,7 +11,7 @@ makedepends=('gtk-doc' 'gobject-introspection')
 replaces=("gnome-shell-common","gnome-shell")
 _realver=0.3.1
 provides=("oneosui")
-source=https://github.com/OneOSwork/oneos-default-settings/tree/master/oneos-shell-extensions
+source=https://github.com/g97iulio1609/oneos-shell-extensions.git
 md5sums=('SKIP')
 
 package() {
